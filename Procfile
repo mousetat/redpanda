@@ -1,1 +1,1 @@
-worker: python3.5 redpanda.py
+worker: python redpanda.py
